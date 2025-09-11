@@ -63,7 +63,7 @@
   <a href="mailto:decorocco9@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://decorocco.itch.io">
+  <a href="https://andrebr.itch.io">
     <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
   </a>
 </div>
