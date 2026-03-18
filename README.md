@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Computer+Engineer;Always+learning+something+new!" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **Computer Engineer** with a passion for low-level programming 
-- 💼 **Software Engineer** at **Modelix**
-- 🏫 Graduated at **Insper**
-- 📍 Based in **São Paulo, Brazil**
-- 🌱 Currently developing in **C#**, **C++** and **Python** 
-- 💡 Love solving complex problems and creating efficient software solutions
+-  **Computer Engineer** with a passion for low-level programming 
+-  **Software Engineer** at **Modelix**
+-  Graduated at **Insper**
+-  Based in **São Paulo, Brazil**
+-  Currently developing in **C#**, **C++** and **Python** 
+-  Love solving complex problems and creating efficient software solutions
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🔥 Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 ### Currently developing a flowchart programming app in C# and C++
@@ -46,7 +46,7 @@
   - Improved project documentation and code comments, making it easier for future developers to onboard and understand the system architecture.
 <!--END_SECTION:activity-->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=decorocco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -54,7 +54,7 @@
 </div>
 
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/decorocco">
